@@ -35,4 +35,4 @@ Atualmente, estou estudando programação!
 ### ☕ Entre em contato
 [![GMAIL](https://img.shields.io/badge/Gmail-jvpiovezan2905%40gmail.com-white?style=flat&logo=gmail&link=mailto:jvpiovezan2905@gmail.com)](mailto:jvpiovezan2905@gmail.com)
 
-![Visitas](https://hit.yhype.me/github/profile?user_id=96006422)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=joojdev.readme)
