@@ -9,8 +9,8 @@ Atualmente, estou estudando programação!
 
 ### 👨‍💻 Linguagens e Ferramentas
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/joojdev)](https://github.com/joojdev) 
-Flask
-Selenium
+[![Flask](https://img.shields.io/badge/-Flask-blue?style=flat&logo=flask&link=https://github.com/joojdev)](https://github.com/joojdev)
+[![Selenium](https://img.shields.io/badge/-Selenium-white?style=flat&logo=selenium&link=https://github.com/joojdev)](https://github.com/joojdev)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/joojdev)](https://github.com/joojdev) 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/joojdev)](https://github.com/joojdev) 
@@ -19,20 +19,21 @@ Selenium
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/joojdev)](https://github.com/joojdev) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/joojdev)](https://github.com/joojdev) 
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/joojdev)](https://github.com/joojdev)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js&link=https://github.com/joojdev)](https://github.com/joojdev)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/joojdev)](https://github.com/joojdev)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/joojdev)](https://github.com/joojdev)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/joojdev)](https://github.com/joojdev)
+[![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat&logo=sqlite&link=https%3A%2F%2Fgithub.com%2Fjoojdev)](https://github.com/joojdev)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/joojdev)](https://github.com/joojdev) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/joojdev)](https://github.com/joojdev)
 
-
+<!--
 ### 🏆 Github
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=joojdev&show_icons=true&hide_border=true)
-
-<!--
-### ☕ Entre em contato
 -->
+
+### ☕ Entre em contato
+[![GMAIL](https://img.shields.io/badge/Gmail-jvpiovezan2905%40gmail.com-white?style=flat&logo=gmail&link=mailto:jvpiovezan2905@gmail.com)](mailto:jvpiovezan2905@gmail.com)
 
 ![](https://hit.yhype.me/github/profile?user_id=96006422)
